@@ -62,7 +62,7 @@ h1 {
 }
 
 .search.active .btn {
-  transform: translateY(198px);
+  transform: translateX(198px);
 }
 
 i {
