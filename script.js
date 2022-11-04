@@ -4,4 +4,6 @@ const input = document.querySelector(".input");
 
 btn.addEventListener("click", () => {
   console.log("CLICKY");
+  search.classList.toggle("active");
+  input.focus();
 });
